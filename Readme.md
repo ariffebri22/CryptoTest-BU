@@ -61,7 +61,6 @@ This project consists of two main assessments:
 ### Frontend Deployment
 
 Live demo available at: [https://crypto-fe.febriansyah.web.id](https://crypto-fe.febriansyah.web.id)  
-_(Note: Link will be updated to actual deployment URL)_
 
 ## Backend Test
 
@@ -133,7 +132,7 @@ npm install
 npm run dev
 ```
 
-### Frontend Setup
+### Backend Setup
 
 ```bash
 # Navigate to backend directory
@@ -153,6 +152,6 @@ npm run start
 
 For any inquiries about this project, please contact:
 
-**Email**: [mailto:arif@febriansyah.web.id](mailto:arif@febriansyah.web.id)  
-**LinkedIn**: [https://www.linkedin.com/in/ariffebri/](https://www.linkedin.com/in/ariffebri/)
-**Website**: [https://febriansyah.web.id](https://febriansyah.web.id)
+**Email**: [arif@febriansyah.web.id](mailto:arif@febriansyah.web.id)  
+**LinkedIn**: [Arif Febriansyah](https://www.linkedin.com/in/ariffebri/)
+**Website**: [febriansyah.web.id](https://febriansyah.web.id)
