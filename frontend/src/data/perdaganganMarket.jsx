@@ -1,0 +1,128 @@
+export const dataPerdaganganMarket1 = [
+    {
+        key: "1",
+        pasangan: "ADA/IDR",
+        harga: "12,501",
+        ubah: "+3.00%",
+        isPositiveChange: true,
+    },
+    {
+        key: "2",
+        pasangan: "ARB/IDR",
+        harga: "8,125",
+        ubah: "+2.00%",
+        isPositiveChange: true,
+    },
+    {
+        key: "3",
+        pasangan: "AVAX/IDR",
+        harga: "439,245",
+        ubah: "+1.00%",
+        isPositiveChange: true,
+    },
+    {
+        key: "4",
+        pasangan: "DOGE/IDR",
+        harga: "4,361",
+        ubah: "+5.00%",
+        isPositiveChange: true,
+    },
+    {
+        key: "5",
+        pasangan: "ETH/IDR",
+        harga: "46,000,000",
+        ubah: "-3.00%",
+        isPositiveChange: false,
+    },
+    {
+        key: "6",
+        pasangan: "MANTA/IDR",
+        harga: "24,4",
+        ubah: "-1.00%",
+        isPositiveChange: false,
+    },
+    {
+        key: "7",
+        pasangan: "NBT/IDR",
+        harga: "48.8",
+        ubah: "-2.30%",
+        isPositiveChange: false,
+    },
+    {
+        key: "8",
+        pasangan: "NOT/IDR",
+        harga: "975.1",
+        ubah: "+3.00%",
+        isPositiveChange: true,
+    },
+    {
+        key: "9",
+        pasangan: "SOL/IDR",
+        harga: "975.1",
+        ubah: "+3.00%",
+        isPositiveChange: true,
+    },
+];
+
+export const dataPerdaganganMarket2 = [
+    {
+        key: "1",
+        hargaIdr: "13272",
+        jumlahBtc: "975.1",
+        waktu: "11:00:12",
+    },
+    {
+        key: "2",
+        hargaIdr: "13272",
+        jumlahBtc: "975.1",
+        waktu: "11:00:12",
+    },
+    {
+        key: "3",
+        hargaIdr: "13272",
+        jumlahBtc: "975.1",
+        waktu: "11:00:12",
+    },
+    {
+        key: "4",
+        hargaIdr: "13272",
+        jumlahBtc: "975.1",
+        waktu: "11:00:12",
+    },
+    {
+        key: "5",
+        hargaIdr: "13272",
+        jumlahBtc: "975.1",
+        waktu: "11:00:12",
+    },
+    {
+        key: "6",
+        hargaIdr: "13272",
+        jumlahBtc: "975.1",
+        waktu: "11:00:12",
+    },
+    {
+        key: "7",
+        hargaIdr: "13272",
+        jumlahBtc: "975.1",
+        waktu: "11:00:12",
+    },
+    {
+        key: "8",
+        hargaIdr: "13272",
+        jumlahBtc: "975.1",
+        waktu: "11:00:12",
+    },
+    {
+        key: "9",
+        hargaIdr: "13272",
+        jumlahBtc: "975.1",
+        waktu: "11:00:12",
+    },
+    {
+        key: "10",
+        hargaIdr: "13272",
+        jumlahBtc: "975.1",
+        waktu: "11:00:12",
+    },
+];

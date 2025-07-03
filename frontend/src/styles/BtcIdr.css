@@ -1,0 +1,57 @@
+.custom-table-buku-order-1.ant-table-wrapper {
+    background-color: #0b1322 !important;
+    border: none !important;
+}
+
+/* Header Tabel */
+.custom-table-buku-order-1 .ant-table-thead > tr > th {
+    background-color: #0b1322 !important;
+    color: #a0a0a0 !important;
+    font-weight: 500 !important;
+    border-bottom: 1px solid #0b1322 !important;
+    text-align: left !important;
+    padding: 12px 16px !important;
+}
+
+/* Body Tabel (Baris dan Sel) */
+.custom-table-buku-order-1 .ant-table-tbody > tr > td {
+    background-color: #0b1322 !important;
+    color: white !important;
+    border-bottom: 1px solid #0b1322 !important;
+    padding: 12px 16px !important;
+}
+
+/* Hover effect pada baris */
+.custom-table-buku-order-1 .ant-table-tbody > tr.ant-table-row:hover > td {
+    background-color: #ff8282 !important;
+    cursor: pointer;
+}
+
+.custom-table-buku-order-2.ant-table-wrapper {
+    background-color: #0b1322 !important;
+    border: none !important;
+}
+
+/* Header Tabel */
+.custom-table-buku-order-2 .ant-table-thead > tr > th {
+    background-color: #0b1322 !important;
+    color: #a0a0a0 !important;
+    font-weight: 500 !important;
+    border-bottom: 1px solid #0b1322 !important;
+    text-align: left !important;
+    padding: 12px 16px !important;
+}
+
+/* Body Tabel (Baris dan Sel) */
+.custom-table-buku-order-2 .ant-table-tbody > tr > td {
+    background-color: #0b1322 !important;
+    color: white !important;
+    border-bottom: 1px solid #0b1322 !important;
+    padding: 12px 16px !important;
+}
+
+/* Hover effect pada baris */
+.custom-table-buku-order-2 .ant-table-tbody > tr.ant-table-row:hover > td {
+    background-color: #31e874 !important;
+    cursor: pointer;
+}

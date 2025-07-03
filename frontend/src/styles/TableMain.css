@@ -1,0 +1,27 @@
+.custom-transparent-table.ant-table-wrapper {
+    background-color: #0b1322 !important;
+    border: none !important;
+}
+
+/* Header Tabel */
+.custom-transparent-table .ant-table-thead > tr > th {
+    background-color: #0b1322 !important;
+    color: #a0a0a0 !important;
+    font-weight: 500 !important;
+    border-bottom: 1px solid #0b1322 !important;
+    text-align: left !important;
+    padding: 12px 16px !important;
+}
+
+/* Body Tabel (Baris dan Sel) */
+.custom-transparent-table .ant-table-tbody > tr > td {
+    background-color: #0b1322 !important;
+    color: white !important;
+    border-bottom: 1px solid #0b1322 !important;
+    padding: 12px 16px !important;
+}
+
+/* Hover effect pada baris */
+.custom-transparent-table .ant-table-tbody > tr.ant-table-row:hover > td {
+    background-color: #121b2e !important;
+}
